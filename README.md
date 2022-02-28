@@ -2,9 +2,14 @@
 
 These scripts are to aid in the assignment and administration of the Frisco Soccer Association. 
 
-## Create Mentor Schedule
+### Create Mentor Schedule
 
-### Purpose 
+Usage: 
+
+```
+python3 create-mentor-schedule.py INPUT_FILE.csv OUTPUT_FILE.csv
+```
+
 
 The script takes the league schedule and creates a schedule for the mentors to follow. 
 
@@ -19,7 +24,4 @@ The script makes the following assumptions:
 
 These assumptions may need to be changed over time.  
 
-### Usage 
-
-```python3 create-mentor-schedule.py INPUT_FILE.csv OUTPUT_FILE.csv```
 
