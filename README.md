@@ -1,5 +1,7 @@
 # FSA Utility Scripts
 
+These scripts are to aid in the assignment and administration of the Frisco Soccer Association. 
+
 ## Create Mentor Schedule
 
 ### Purpose 
